@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Hero_Test2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Hero>
+		<Heroinfo>
+			<ID>0</ID>
+			<Name>ABC</Name>
+			<Hp>10</Hp>
+			<ATK>45</ATK>
+		</Heroinfo>
+		<Heroinfo>
+			<ID>1</ID>
+			<Name>DEF</Name>
+			<Hp>20</Hp>
+			<ATK>35</ATK>
+		</Heroinfo>
+		<Heroinfo>
+			<ID>2</ID>
+			<Name>GHI</Name>
+			<Hp>30</Hp>
+			<ATK>25</ATK>
+		</Heroinfo>
+		<Heroinfo>
+			<ID>3</ID>
+			<Name>JKL</Name>
+			<Hp>40</Hp>
+			<ATK>15</ATK>
+		</Heroinfo>
+	</Hero>
+</Hero_Test2>
